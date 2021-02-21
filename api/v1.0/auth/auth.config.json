@@ -1,0 +1,7 @@
+{
+    "userTypes": [
+        "superadmin",
+        "admin",
+        "student"
+    ]
+}
